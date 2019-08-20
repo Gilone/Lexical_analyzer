@@ -1,0 +1,6 @@
+begin
+integer i;
+sum:=5;
+read(i);
+if i<10 then sum:=sum-i else sum:=i
+end
